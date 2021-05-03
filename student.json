@@ -1,1 +1,12 @@
-
+{
+  "firstname" : "Adil",
+  "lastname" : "Duyshenaliev",
+  "age" : 18,
+  "community" : "neobis",
+  "university" : "INAI",
+  "hobbys" : [
+    "computer games",
+    "math",
+    "programming"
+    ]
+}
